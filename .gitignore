@@ -1,6 +1,0 @@
-*.gem
-/pkg/
-/tmp/
-.bundle/
-vendor/
-Gemfile.lock
