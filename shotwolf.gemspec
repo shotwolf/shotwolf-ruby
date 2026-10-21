@@ -18,9 +18,9 @@ Gem::Specification.new do |spec|
 
   spec.metadata = {
     "homepage_uri" => "https://shotwolf.com",
-    "source_code_uri" => "https://github.com/shotwolf/ruby",
+    "source_code_uri" => "https://github.com/shotwolf/shotwolf-ruby",
     "documentation_uri" => "https://shotwolf.com/docs/sdks/",
-    "bug_tracker_uri" => "https://github.com/shotwolf/ruby/issues",
+    "bug_tracker_uri" => "https://github.com/shotwolf/shotwolf-ruby/issues",
     "rubygems_mfa_required" => "true"
   }
 
